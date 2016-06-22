@@ -1,8 +1,15 @@
 // http://doc.rust-lang.org/stable/book/guessing-game.html
+extern crate rand;
+
 use std::io;
+use rand::Rng;
 
 fn main() {
     println!("Guess the numbre!");
+
+    let secret_number = rand::thread_rng().gen_range(1, 11);
+
+    println!("The secret number is: {}", secret_number);
 
     println!("Please input your guess.");
 
