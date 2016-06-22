@@ -1,0 +1,5 @@
+[package]
+
+name = "rust_is_fucking_fast"
+version = "0.0.1"
+authors = [ "Marthyn Olthof <marthyn@live.nl>" ]
