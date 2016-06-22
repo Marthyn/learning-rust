@@ -1,3 +1,4 @@
+// http://doc.rust-lang.org/stable/book/guessing-game.html
 use std::io;
 
 fn main() {
