@@ -1,4 +1,4 @@
-# This is a Rust hello world example
+# This is a Rust learning repo
 
 > "those who would give up memory safety for performance deserve neither."
 
