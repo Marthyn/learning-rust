@@ -9,3 +9,6 @@
 * http://blog.skylight.io/bending-the-curve-writing-safe-fast-native-gems-with-rust/
 * https://github.com/malept/thermite
 * http://doc.rust-lang.org/book/README.html
+* [Web framework](http://ironframework.io/)
+* [Postgress](https://github.com/sfackler/rust-postgres)
+* [HTTP](https://github.com/hyperium/hyper)
