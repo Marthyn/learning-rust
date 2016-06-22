@@ -1,3 +1,8 @@
 fn main() {
-    let(x, y) = (1, 2);
+    let x: i32 = 17;
+    {
+        let y: i32 = 3;
+        println!("The value of x is {} and value of y is {}", x, y);
+    }
+    println!("The value of x is {} and the value of y is {}", x, y);
 }
