@@ -12,3 +12,5 @@
 * [Web framework](http://ironframework.io/)
 * [Postgress](https://github.com/sfackler/rust-postgres)
 * [HTTP](https://github.com/hyperium/hyper)
+* [AWESOME RUST](https://github.com/kud1ing/awesome-rust#computation)
+* [Machine learning 😎](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.kqs5yqje1)
